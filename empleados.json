@@ -1,0 +1,5 @@
+{
+  "juan perez": {"puntos": 820, "ventas": 3200, "puntualidad": 95, "servicio": 90, "historial": []},
+  "maria lopez": {"puntos": 430, "ventas": 2100, "puntualidad": 88, "servicio": 92, "historial": []},
+  "lara chavez": {"puntos": 500, "ventas": 2500, "puntualidad": 94, "servicio": 91, "historial": []}
+}
